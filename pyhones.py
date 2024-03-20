@@ -14,10 +14,24 @@
 variable= 1
 
 variable= 'juventud divino tesoro, te vas para no volver, cuando quiero llorar pero no lo hare'
-variable=true
+variable= True
 
 variable= 'a'
 
 variable= 3.1415926535
 
-# para signar un valor a la variable se usa el operador 
+# para signar un valor a la variable se usa el operador=
+
+#Operadores: Mecanismo para obtener un dato a partir de otros datos.
+#los datos que intervienen s llaman operados 
+#Aritmeticos : + - * / %
+
+#De comparacion: Retornan true or false. > < >= <= == !=
+
+#Los de logica booleana: OR AND. Retornan true o false de acuerdo a una
+#tabla de verdad.los operadores siempre son boolenaos (True or False)
+
+a=True
+b=False
+
+print(a and b)
