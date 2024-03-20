@@ -1,0 +1,2 @@
+import random
+numero= random
